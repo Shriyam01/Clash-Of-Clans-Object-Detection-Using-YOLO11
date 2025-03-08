@@ -30,10 +30,10 @@ jupyter notebook Computer_Vision2.ipynb
 ```
 
 Requirements
-Python 3.8+
-Jupyter Notebook
-Ultralytics YOLO
-CUDA-enabled GPU (optional but recommended)
+1. Python 3.8+
+2. Jupyter Notebook
+3. Ultralytics YOLO
+4. CUDA-enabled GPU (optional but recommended)
 
 
 
